@@ -1,2 +1,2 @@
 # SOIFMS
-Aulas de Sistemas Operacionais TSI
+Aulas de Sistemas Operacionais  do Curso TSI
